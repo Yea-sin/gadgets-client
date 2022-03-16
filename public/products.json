@@ -1,0 +1,27 @@
+[
+    {   "id":0,
+        "name":"Iphone-XR",
+        "type":"phone",
+        "img":"https://i.ibb.co/868yV4z/image-a-HR0c-HM6-Ly9p-NS53-YWxt-YXJ0a-W1h-Z2-Vz-Lm-Nvb-S9hc3-Iv-Zm-Mx-Ym-Jk-NTkt-ODdj-Yy00-Mz-Ez-LWF.jpg",
+        "price":80000
+    },
+    {   "id":1,
+        "name":"Remax",
+        "type":"accessories",
+        "img":"https://i.ibb.co/n0XNDK7/pd27e.jpg",
+        "price":5000
+    },
+    {   "id":2,
+        "name":"Canon",
+        "type":"camera",
+        "img":"https://i.ibb.co/wzJ168c/71-EWRyqzw0-L-AC-SL1500.jpg",
+        "price":30000
+    },
+    {
+        "id":3,
+        "name":"Samsung Led TV",
+        "type":"tv",
+        "img":"https://www.ikonelectronics.com.bd/wp-content/uploads/2020/12/Samsung-4K-Smart-UHD-LED-TV-43RU7170-1.jpg",
+        "price":69000
+    }
+]
